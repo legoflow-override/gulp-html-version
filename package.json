@@ -1,0 +1,60 @@
+{
+  "_from": "gulp-html-version@1.0.1",
+  "_id": "gulp-html-version@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-cAam2Pp/zogS+khdDLKdJckYBc0=",
+  "_location": "/gulp-html-version",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "gulp-html-version@1.0.1",
+    "name": "gulp-html-version",
+    "escapedName": "gulp-html-version",
+    "rawSpec": "1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "1.0.1"
+  },
+  "_requiredBy": [
+    "/legoflow-engine"
+  ],
+  "_resolved": "https://registry.npmjs.org/gulp-html-version/-/gulp-html-version-1.0.1.tgz",
+  "_shasum": "7006a6d8fa7fce8812fa485d0cb29d25c91805cd",
+  "_spec": "gulp-html-version@1.0.1",
+  "_where": "/Users/lijialiang/legoflow@2/cli/node_modules/legoflow-engine",
+  "author": {
+    "name": "LMY"
+  },
+  "bugs": {
+    "url": "https://github.com/MinJieLiu/gulp-html-version/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "object-assign": "^4.1.0",
+    "through2": "^2.0.1"
+  },
+  "deprecated": false,
+  "description": "Gulp plugin to append version from package.json",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "homepage": "https://github.com/MinJieLiu/gulp-html-version#readme",
+  "keywords": [
+    "gulp-html-version",
+    "version",
+    "gulp",
+    "gulpplugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "gulp-html-version",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinJieLiu/gulp-html-version.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
